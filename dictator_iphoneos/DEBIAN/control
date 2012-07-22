@@ -1,0 +1,8 @@
+Package: com.phyrrus9.dictator
+Name: Dictator
+version: 58
+Architecture: iphoneos-arm
+Description: An essential iphone utility
+Maintainer: Ethan Laur
+Author: Ethan Laur
+Section: Utilities
